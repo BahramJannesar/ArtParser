@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# TASK file
+TASK.md
+
 # C extensions
 *.so
 
