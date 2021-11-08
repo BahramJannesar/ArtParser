@@ -6,6 +6,9 @@ __pycache__/
 # TASK file
 TASK.md
 
+# Idea
+.idea
+
 # C extensions
 *.so
 
